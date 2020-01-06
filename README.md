@@ -170,7 +170,7 @@ Please edit this README.md file with your answers to the worksheet questions.
 | F    |   T   |       T       |
 | F    |   F   |       F       |
 
-### d Ds pair of programs show that A Or (A AND B) will put out the same result as A AND (A OR B). Here is the truth table I drew up to show this:
+### d Ds pair of programs show that A Or (A AND B) will put out the same result as C AND (C OR D). Here is the truth table I drew up to show this:
 |A | B | A AND B | A OR (A AND B)|
 |:-|:-:|:-------:|--------------:|        
 |F | F |    F    |       F       |
@@ -178,7 +178,7 @@ Please edit this README.md file with your answers to the worksheet questions.
 |T | F |    F    |       T       |
 |T | T |    T    |       T       |
 
-|A | B | A OR B | A AND (A OR B)|
+|C | D | C OR D | C AND (C OR D)|
 |:-|:-:|:------:|--------------:| 
 |F | F |    F   |        F      |
 |F | T |    T   |        F      |
